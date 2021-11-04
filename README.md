@@ -7,3 +7,5 @@ Please consider [donating to the main developer](https://freefilesync.org/donate
 
 # Binaries
 MattMckenzy: I've forked this repository to host FreeFileSync and RealTimeSync 11.4 binaries I've managed to compile for aarch64, using GTK 3.0, G++ 10.0 and OpenSSL 3. They work great for me, but no guarantees are made, use at your own risk.
+
+The binaries are location in FreeFileSync.7z.
